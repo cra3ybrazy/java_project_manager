@@ -1,0 +1,132 @@
+20:54:19,395  INFO main LogHelper:logPersistenceUnitInformation:31 - HHH000204: Processing PersistenceUnitInfo [name: default]
+20:54:19,434  INFO main Version:logVersion:44 - HHH000412: Hibernate ORM core version 5.6.5.Final
+20:54:19,566  INFO main Version:<clinit>:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+20:54:19,715  WARN main pooling:configure:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+20:54:19,720  INFO main pooling:buildCreator:115 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/project_manager_schema?serverTimezone=UTC]
+20:54:19,725  INFO main pooling:buildCreator:124 - HHH10001001: Connection properties: {password=****, user=root}
+20:54:19,725  INFO main pooling:buildCreator:129 - HHH10001003: Autocommit mode: false
+20:54:19,727  INFO main DriverManagerConnectionProviderImpl:<init>:274 - HHH000115: Hibernate connection pool size: 20 (min=1)
+20:54:20,014  INFO main Dialect:<init>:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+20:54:20,439  INFO main JtaPlatformInitiator:initiateService:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+20:54:59,982  INFO main LogHelper:logPersistenceUnitInformation:31 - HHH000204: Processing PersistenceUnitInfo [name: default]
+20:55:00,023  INFO main Version:logVersion:44 - HHH000412: Hibernate ORM core version 5.6.5.Final
+20:55:00,150  INFO main Version:<clinit>:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+20:55:00,299  WARN main pooling:configure:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+20:55:00,304  INFO main pooling:buildCreator:115 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/project_manager_schema?serverTimezone=UTC]
+20:55:00,304  INFO main pooling:buildCreator:124 - HHH10001001: Connection properties: {password=****, user=root}
+20:55:00,304  INFO main pooling:buildCreator:129 - HHH10001003: Autocommit mode: false
+20:55:00,306  INFO main DriverManagerConnectionProviderImpl:<init>:274 - HHH000115: Hibernate connection pool size: 20 (min=1)
+20:55:00,564  INFO main Dialect:<init>:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+20:55:00,996  INFO main JtaPlatformInitiator:initiateService:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+20:55:02,932  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:329 - Changes in tables are going to be saved in DB
+20:55:04,231  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:334 - Data saved successfully!
+20:55:05,424  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:343 - Edit button was pressed.
+20:55:05,425 ERROR AWT-EventQueue-0 ManagerInterface:actionPerformed:674 - Manager didn't choose line for editing.
+20:55:08,230  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:766 - Manager is going to add data.
+20:55:09,777  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:113 - Preparing to open window with overdue projects
+20:55:09,828  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:152 - Window with overdue projects created.
+21:02:54,970  INFO main LogHelper:logPersistenceUnitInformation:31 - HHH000204: Processing PersistenceUnitInfo [name: default]
+21:02:55,016  INFO main Version:logVersion:44 - HHH000412: Hibernate ORM core version 5.6.5.Final
+21:02:55,152  INFO main Version:<clinit>:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+21:02:55,301  WARN main pooling:configure:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+21:02:55,306  INFO main pooling:buildCreator:115 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/project_manager_schema?serverTimezone=UTC]
+21:02:55,306  INFO main pooling:buildCreator:124 - HHH10001001: Connection properties: {password=****, user=root}
+21:02:55,306  INFO main pooling:buildCreator:129 - HHH10001003: Autocommit mode: false
+21:02:55,308  INFO main DriverManagerConnectionProviderImpl:<init>:274 - HHH000115: Hibernate connection pool size: 20 (min=1)
+21:02:55,568  INFO main Dialect:<init>:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+21:02:55,986  INFO main JtaPlatformInitiator:initiateService:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+21:03:05,121  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:113 - Preparing to open window with overdue projects
+21:03:05,181  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:152 - Window with overdue projects created.
+21:03:07,231  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:160 - Preparing to open window with employee workload
+21:03:09,665  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:245 - Window with employee workload created.
+21:03:12,618  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:253 - Preparing to open window with specific client's projects.
+21:03:14,516  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:304 - Window with client's projects opened.
+21:03:16,388  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:253 - Preparing to open window with specific client's projects.
+21:03:19,070  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:304 - Window with client's projects opened.
+21:03:24,193  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:329 - Changes in tables are going to be saved in DB
+21:03:27,378  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:334 - Data saved successfully!
+21:04:07,802  INFO main LogHelper:logPersistenceUnitInformation:31 - HHH000204: Processing PersistenceUnitInfo [name: default]
+21:04:07,842  INFO main Version:logVersion:44 - HHH000412: Hibernate ORM core version 5.6.5.Final
+21:04:07,972  INFO main Version:<clinit>:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+21:04:08,116  WARN main pooling:configure:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+21:04:08,121  INFO main pooling:buildCreator:115 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/project_manager_schema?serverTimezone=UTC]
+21:04:08,121  INFO main pooling:buildCreator:124 - HHH10001001: Connection properties: {password=****, user=root}
+21:04:08,122  INFO main pooling:buildCreator:129 - HHH10001003: Autocommit mode: false
+21:04:08,124  INFO main DriverManagerConnectionProviderImpl:<init>:274 - HHH000115: Hibernate connection pool size: 20 (min=1)
+21:04:08,388  INFO main Dialect:<init>:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+21:04:08,810  INFO main JtaPlatformInitiator:initiateService:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+01:34:00,692  INFO main LogHelper:logPersistenceUnitInformation:31 - HHH000204: Processing PersistenceUnitInfo [name: default]
+01:34:00,730  INFO main Version:logVersion:44 - HHH000412: Hibernate ORM core version 5.6.5.Final
+01:34:00,858  INFO main Version:<clinit>:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+01:34:01,136  WARN main pooling:configure:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+01:34:01,141  INFO main pooling:buildCreator:115 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/project_manager_schema?serverTimezone=UTC]
+01:34:01,142  INFO main pooling:buildCreator:124 - HHH10001001: Connection properties: {password=****, user=root}
+01:34:01,142  INFO main pooling:buildCreator:129 - HHH10001003: Autocommit mode: false
+01:34:01,144  INFO main DriverManagerConnectionProviderImpl:<init>:274 - HHH000115: Hibernate connection pool size: 20 (min=1)
+01:34:01,417  INFO main Dialect:<init>:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+01:34:01,914  INFO main JtaPlatformInitiator:initiateService:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+02:22:39,188  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:329 - Changes in tables are going to be saved in DB
+02:22:41,541  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:334 - Data saved successfully!
+02:22:42,840  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:343 - Edit button was pressed.
+02:22:42,889 ERROR AWT-EventQueue-0 ManagerInterface:actionPerformed:674 - Manager didn't choose line for editing.
+02:22:44,981  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:343 - Edit button was pressed.
+02:22:46,939  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:766 - Manager is going to add data.
+02:22:48,846  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:980 - Manager is going to delete project.
+02:22:50,874  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:93 - Manager is going to print table
+02:22:50,875  INFO Thread-2 PDFGenerator:<init>:27 - Creating PDF file.
+02:22:50,993  INFO Thread-2 PDFGenerator:<init>:32 - File has been created.
+02:22:50,993  INFO Thread-2 PDFGenerator:addProjects:43 - Creating page with projects.
+02:22:51,004  INFO Thread-2 PDFGenerator:addProjects:50 - Creating table.
+02:22:51,004  INFO Thread-2 PDFGenerator:addProjects:53 - Table created!
+02:22:51,012  INFO Thread-2 PDFGenerator:addProjects:84 - Trying add clients and their projects.
+02:22:51,034  INFO Thread-2 PDFGenerator:addProjects:86 - Data added successfully
+02:22:51,034  INFO Thread-2 PDFGenerator:addProjects:84 - Trying add clients and their projects.
+02:22:51,036  INFO Thread-2 PDFGenerator:addProjects:86 - Data added successfully
+02:22:51,036  INFO Thread-2 PDFGenerator:addProjects:84 - Trying add clients and their projects.
+02:22:51,038  INFO Thread-2 PDFGenerator:addProjects:86 - Data added successfully
+02:22:51,038  INFO Thread-2 PDFGenerator:addProjects:84 - Trying add clients and their projects.
+02:22:51,039  INFO Thread-2 PDFGenerator:addProjects:86 - Data added successfully
+02:22:51,039  INFO Thread-2 PDFGenerator:addProjects:84 - Trying add clients and their projects.
+02:22:51,040  INFO Thread-2 PDFGenerator:addProjects:86 - Data added successfully
+02:22:51,040  INFO Thread-2 PDFGenerator:addProjects:84 - Trying add clients and their projects.
+02:22:51,041  INFO Thread-2 PDFGenerator:addProjects:86 - Data added successfully
+02:22:52,301  INFO Thread-2 ManagerInterface:run:101 - Table printed successfully!
+02:22:53,282  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:685 - Manager is going to check project's list of employee.
+02:22:55,432  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:253 - Preparing to open window with specific client's projects.
+02:22:59,432  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:160 - Preparing to open window with employee workload
+02:23:01,861  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:245 - Window with employee workload created.
+02:23:04,284  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:113 - Preparing to open window with overdue projects
+02:23:04,322  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:152 - Window with overdue projects created.
+21:06:02,076  INFO main LogHelper:logPersistenceUnitInformation:31 - HHH000204: Processing PersistenceUnitInfo [name: default]
+21:06:02,118  INFO main Version:logVersion:44 - HHH000412: Hibernate ORM core version 5.6.5.Final
+21:06:02,250  INFO main Version:<clinit>:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+21:06:02,517  WARN main pooling:configure:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+21:06:02,523  INFO main pooling:buildCreator:115 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/project_manager_schema?serverTimezone=UTC]
+21:06:02,523  INFO main pooling:buildCreator:124 - HHH10001001: Connection properties: {password=****, user=root}
+21:06:02,524  INFO main pooling:buildCreator:129 - HHH10001003: Autocommit mode: false
+21:06:02,526  INFO main DriverManagerConnectionProviderImpl:<init>:274 - HHH000115: Hibernate connection pool size: 20 (min=1)
+21:06:02,861  INFO main Dialect:<init>:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+21:06:03,375  INFO main JtaPlatformInitiator:initiateService:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+21:06:46,249  INFO main LogHelper:logPersistenceUnitInformation:31 - HHH000204: Processing PersistenceUnitInfo [name: default]
+21:06:46,310  INFO main Version:logVersion:44 - HHH000412: Hibernate ORM core version 5.6.5.Final
+21:06:46,500  INFO main Version:<clinit>:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+21:06:46,677  WARN main pooling:configure:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+21:06:46,682  INFO main pooling:buildCreator:115 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/project_manager_schema?serverTimezone=UTC]
+21:06:46,683  INFO main pooling:buildCreator:124 - HHH10001001: Connection properties: {password=****, user=root}
+21:06:46,683  INFO main pooling:buildCreator:129 - HHH10001003: Autocommit mode: false
+21:06:46,685  INFO main DriverManagerConnectionProviderImpl:<init>:274 - HHH000115: Hibernate connection pool size: 20 (min=1)
+21:06:46,972  INFO main Dialect:<init>:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+21:06:47,439  INFO main JtaPlatformInitiator:initiateService:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+21:06:49,515  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:329 - Changes in tables are going to be saved in DB
+21:06:50,654  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:334 - Data saved successfully!
+21:06:54,697  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:343 - Edit button was pressed.
+21:06:54,701 ERROR AWT-EventQueue-0 ManagerInterface:actionPerformed:674 - Manager didn't choose line for editing.
+21:06:58,055  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:343 - Edit button was pressed.
+21:06:59,241  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:357 - Manager is going to edit client.
+21:07:07,451  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:391 - Editing client.
+21:07:07,453  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:407 - Client edited.
+21:07:09,979  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:329 - Changes in tables are going to be saved in DB
+21:07:11,701  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:334 - Data saved successfully!
+21:07:15,122  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:766 - Manager is going to add data.
+21:08:00,138  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:823 - Adding data.
+21:08:00,162  INFO AWT-EventQueue-0 ManagerInterface:actionPerformed:930 - Data succesfully added.
